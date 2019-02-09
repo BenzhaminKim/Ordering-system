@@ -1,0 +1,6 @@
+D:\Programming\CSharp\Practices\OOP\COMP225\YounghwiKim_300987880_A1\CoffeeShopLib\bin\Debug\CoffeeShopLib.dll
+D:\Programming\CSharp\Practices\OOP\COMP225\YounghwiKim_300987880_A1\CoffeeShopLib\bin\Debug\CoffeeShopLib.pdb
+D:\Programming\CSharp\Practices\OOP\COMP225\YounghwiKim_300987880_A1\CoffeeShopLib\obj\Debug\CoffeeShopLib.csprojAssemblyReference.cache
+D:\Programming\CSharp\Practices\OOP\COMP225\YounghwiKim_300987880_A1\CoffeeShopLib\obj\Debug\CoffeeShopLib.csproj.CoreCompileInputs.cache
+D:\Programming\CSharp\Practices\OOP\COMP225\YounghwiKim_300987880_A1\CoffeeShopLib\obj\Debug\CoffeeShopLib.dll
+D:\Programming\CSharp\Practices\OOP\COMP225\YounghwiKim_300987880_A1\CoffeeShopLib\obj\Debug\CoffeeShopLib.pdb

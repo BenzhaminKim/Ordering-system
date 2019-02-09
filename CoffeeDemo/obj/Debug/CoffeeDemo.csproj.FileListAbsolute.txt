@@ -1,0 +1,10 @@
+D:\Programming\CSharp\Practices\OOP\COMP225\YounghwiKim_300987880_A1\CoffeeDemo\bin\Debug\CoffeeDemo.exe.config
+D:\Programming\CSharp\Practices\OOP\COMP225\YounghwiKim_300987880_A1\CoffeeDemo\bin\Debug\CoffeeDemo.exe
+D:\Programming\CSharp\Practices\OOP\COMP225\YounghwiKim_300987880_A1\CoffeeDemo\bin\Debug\CoffeeDemo.pdb
+D:\Programming\CSharp\Practices\OOP\COMP225\YounghwiKim_300987880_A1\CoffeeDemo\bin\Debug\CoffeeShopLib.dll
+D:\Programming\CSharp\Practices\OOP\COMP225\YounghwiKim_300987880_A1\CoffeeDemo\bin\Debug\CoffeeShopLib.pdb
+D:\Programming\CSharp\Practices\OOP\COMP225\YounghwiKim_300987880_A1\CoffeeDemo\obj\Debug\CoffeeDemo.csprojAssemblyReference.cache
+D:\Programming\CSharp\Practices\OOP\COMP225\YounghwiKim_300987880_A1\CoffeeDemo\obj\Debug\CoffeeDemo.csproj.CoreCompileInputs.cache
+D:\Programming\CSharp\Practices\OOP\COMP225\YounghwiKim_300987880_A1\CoffeeDemo\obj\Debug\CoffeeDemo.csproj.CopyComplete
+D:\Programming\CSharp\Practices\OOP\COMP225\YounghwiKim_300987880_A1\CoffeeDemo\obj\Debug\CoffeeDemo.exe
+D:\Programming\CSharp\Practices\OOP\COMP225\YounghwiKim_300987880_A1\CoffeeDemo\obj\Debug\CoffeeDemo.pdb
